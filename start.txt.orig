@@ -1,0 +1,6 @@
+Test git quick start demo
+<<<<<<< HEAD
+change from main branch
+=======
+change from feature branch
+>>>>>>> feature
